@@ -1,0 +1,38 @@
+{
+  "name": "@mnenie/prettier",
+  "description": "prettier config from mnenie",
+  "author": {
+    "name": "Alex Peshkov",
+    "url": "https://github.com/mnenie"
+  },
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    ".prettierrc.js"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"*.{vue,js,ts,jsx,tsx}\"",
+    "prepare": "husky"
+  },
+  "lint-staged": {
+    "*.{vue,js,ts,jsx,tsx}": "prettier --write"
+  },
+  "dependencies": {
+    "prettier": "^3.2.5"
+  },
+  "peerDependencies": {
+    "prettier": "^3.2.5"
+  },
+  "devDependencies": {
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.2"
+  }
+}
