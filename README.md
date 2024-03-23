@@ -1,6 +1,7 @@
 # Prettier config (@mnenie/prettier) 🔧
 
-[![npm version](https://badge.fury.io/js/@mnenie%2Fprettier.svg)](https://www.npmjs.com/package/@mnenie/prettier)
+[![npm version](https://badge.fury.io/js/@mnenie%2Fprettier.svg)](https://www.npmjs.com/package/@mnenie/prettier) [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/mnenie/prettier-config/blob/master/LICENSE) ![Code Style Prettier](https://img.shields.io/badge/code_style-prettier-ab47bc)
+
 
 
 ## Installing
