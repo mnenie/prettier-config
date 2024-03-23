@@ -2,6 +2,32 @@
     "name": "@mnenie/prettier",
     "entries": [
       {
+        "date": "Sat Mar 23 20:31:55 2024 +0300",
+        "version": "1.0.3",
+        "tag": "@mnenie/prettier_v1.0.3",
+        "comments": {
+          "patch": [
+            {
+              "author": "mnenie <1alexpeshkov@gmail.com>",
+              "package": "@mnenie/prettier"
+            }
+          ]
+        }
+      },
+      {
+        "date": "Sat Mar 23 20:00:21 2024 +0300",
+        "version": "1.0.2",
+        "tag": "@mnenie/prettier_v1.0.2",
+        "comments": {
+          "patch": [
+            {
+              "author": "mnenie <1alexpeshkov@gmail.com>",
+              "package": "@mnenie/prettier"
+            }
+          ]
+        }
+      },
+      {
         "date": "Sat Mar 23 18:35:18 2024 +0300",
         "version": "1.0.1",
         "tag": "@mnenie/prettier_v1.0.1",
