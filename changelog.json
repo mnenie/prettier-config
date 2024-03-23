@@ -1,0 +1,31 @@
+{
+    "name": "@mnenie/prettier",
+    "entries": [
+      {
+        "date": "Sat Mar 23 18:35:18 2024 +0300",
+        "version": "1.0.1",
+        "tag": "@mnenie/prettier_v1.0.1",
+        "comments": {
+          "patch": [
+            {
+              "author": "mnenie <1alexpeshkov@gmail.com>",
+              "package": "@mnenie/prettier"
+            }
+          ]
+        }
+      },
+      {
+        "date": "Sat Mar 23 16:35:13 2024 +0300",
+        "version": "1.0.0",
+        "tag": "@mnenie/prettier_v1.0.0",
+        "comments": {
+          "major": [
+            {
+              "author": "mnenie <1alexpeshkov@gmail.com>",
+              "package": "@mnenie/prettier"
+            }
+          ]
+        }
+      }
+    ]
+  }
