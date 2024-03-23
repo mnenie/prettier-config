@@ -6,13 +6,20 @@
     "url": "https://github.com/mnenie"
   },
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "prettier",
     "prettier-config"
   ],
   "publishConfig": {
     "access": "public"
+  },
+  "homepage": "https://github.com/mnenie/prettier-config",
+  "repository": {
+    "url": "https://github.com/mnenie/prettier-config"
+  },
+  "bugs": {
+    "url": "https://github.com/mnenie/prettier-config/issues"
   },
   "files": [
     ".prettierrc.js"
