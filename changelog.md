@@ -1,5 +1,15 @@
 # @mnenie/prettier change log
 
+## 1.0.4
+
+Mon Mar 25 19:36:28 2024 +0300
+
+### Patches
+
+- 🔖 new version - 1.0.4
+- 📝 update docs, set downloads
+- ✨ update package.json
+
 ## 1.0.3
 
 Sat Mar 23 20:31:55 2024 +0300
