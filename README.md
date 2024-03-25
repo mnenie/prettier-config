@@ -12,7 +12,7 @@
 npm install -D @mnenie/prettier 
 
 // yarn
-yarn install --dev @mnenie/prettier
+yarn add -D @mnenie/prettier
 ```
 
 2. After installing, create/update `.prettierrc.cjs` file with content:
